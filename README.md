@@ -1,25 +1,5 @@
-📱 BMI Calculator
-------------------
-Project Description:
------------------------
-  -  Body Mass Index (BMI) is a Simple Calculation Using a Person’s Height and Weight 
------------------------------------------------------------------------------------------------------------------------------
- App Icon:
-------------------
-  -  ![Icon](https://user-images.githubusercontent.com/30273995/191009714-f975359c-c84f-4734-a3c7-422f887353db.png)
------------------------------------------------------------------------------------------------------------------------------
-Flutter Project Architecture:
-------------------------------------
-  -  ![1](https://user-images.githubusercontent.com/30273995/191009783-c94f171d-3e1b-4f0a-947b-f46f43267b86.PNG)
------------------------------------------------------------------------------------------------------------------------------
-App Screenshots:
-------------------------
-  -   ![Screenshot-1](https://user-images.githubusercontent.com/30273995/191009983-6b0fc780-43ce-4976-b850-9674ea4f396c.jpg)
-  -   ![Screenshot-2](https://user-images.githubusercontent.com/30273995/191010012-3f5db1e9-6ece-4f24-bd65-c466bbbb10fb.jpg)
------------------------------------------------------------------------------------------------------------------------------
-App Screen Record:
----------------------------
+# BMI Calculator Application
 
-   https://user-images.githubusercontent.com/30273995/191009892-ea24edbc-66c0-4910-b17c-bd94e0a76504.mp4
-  
------------------------------------------------------------------------------------------------------------------------------
+[![Platform: Mobile / Web](https://img.shields.io/badge/Platform-Flutter%20%2F%20Web-blue.svg)]()
+
+> A sleek, user-friendly Body Mass Index (BMI) calculator application providing real-time metric updates, health range indicators, and visual feedback.
